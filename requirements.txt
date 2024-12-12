@@ -1,0 +1,9 @@
+torch
+torch-geometric
+numpy
+gym
+matplotlib
+tqdm
+python-tsp
+rl4co
+tensordict
